@@ -1,6 +1,6 @@
 # URL Shortener
 
-I created this URL shortener as part of my Free Code Camp projects [Express 4](http://expressjs.com/).
+I created this URL shortener as part of my Free Code Camp projects, [view my others here](https://www.freecodecamp.com/zzbrent).
 
 ## Running Locally
 
